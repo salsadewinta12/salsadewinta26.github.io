@@ -241,6 +241,22 @@ include "koneksi.php";
             <!-- The time line -->
             <div class="timeline">
               <!-- /.timeline-label -->
+               <div class="time-label">
+                <span class="bg-yellow">26 juni 2021</span>
+              </div>
+              <!-- /.timeline-label -->
+              <!-- timeline item -->
+              <div>
+                <i class="fa fa-camera bg-purple"></i>
+                <div class="timeline-item">
+                  <span class="time"><i class="fas fa-clock"></i>00:00</span>
+                  <h3 class="timeline-header"><a href="#">Staff Salsa Laundry's </a></h3>
+                  <div class="timeline-body">
+                 <img src="dist/img/d.jpg" width="200">
+                  <p>Staff Salsa Laundry's mengucapkan selamat ulang tahun kepada Salsa Dewinta founder APKW|Laundry serta Owner Salsa Laundry's.</p>
+                  </div>
+                </div>
+              </div>
               <!-- timeline item -->
               <!-- timeline time label -->
               <div class="time-label">

@@ -50,7 +50,7 @@ $username=$_SESSION["username"];
       <li class="nav-item">
         <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
       </li>
-      
+      <h1 class="m-0">Edit data outlet</h1>
     </ul>
 
     <!-- Right navbar links -->
@@ -171,7 +171,7 @@ $username=$_SESSION["username"];
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1 class="m-0">FORM OUTLET</h1>
+            
           </div><!-- /.col -->
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">

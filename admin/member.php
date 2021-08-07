@@ -50,7 +50,7 @@ include "koneksi.php";
       <li class="nav-item">
         <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
       </li>
-      <h1>Form member</h1>
+      <h1>Member</h1>
     </ul>
 
     <!-- Right navbar links -->

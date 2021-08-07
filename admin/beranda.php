@@ -259,6 +259,7 @@ include "koneksi.php";
             <!-- The time line -->
             <div class="timeline">
               <!-- /.timeline-label -->
+      
               <!-- timeline item -->
               <!-- timeline time label -->
               <div class="time-label">
@@ -356,7 +357,10 @@ include "koneksi.php";
         </div>
       </div>
     </section>
-<!-- /.content-wrapper -->
+    <!-- /.content -->
+    <!-- Main content -->
+    </div>
+  <!-- /.content-wrapper -->
   <footer class="main-footer">
     <strong>Copyright &copy; 2021 <a href="https://adminlte.io">salsa dewinta</a>.</strong>
     All rights reserved.
@@ -365,16 +369,13 @@ include "koneksi.php";
     </div>
   </footer>
 
-           
-              
-        
-
   <!-- Control Sidebar -->
   <aside class="control-sidebar control-sidebar-dark">
     <!-- Control sidebar content goes here -->
   </aside>
   <!-- /.control-sidebar -->
 </div>
+          
 <!-- ./wrapper -->
 
 <!-- jQuery -->

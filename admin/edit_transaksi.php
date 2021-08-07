@@ -50,7 +50,7 @@ $username=$_SESSION["username"];
       <li class="nav-item">
         <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
       </li>
-      <H1>FORM TRANSAKSI</H1>
+      <H1>Edit Data Transaksi</H1>
     </ul>
 
     <!-- Right navbar links -->

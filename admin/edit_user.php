@@ -49,7 +49,7 @@ $username=$_SESSION["username"];
       <li class="nav-item">
         <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
       </li>
-      
+    <H1>edit data user</H1>
     </ul>
 
     <!-- Right navbar links -->

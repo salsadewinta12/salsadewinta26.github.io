@@ -23,7 +23,7 @@
               <div class="text w-100">
                 <h2>APLIKASI BERBASIS WEB <br> LAUNDRY</h2>
                 
-                <a href="#" class="btn btn-white btn-outline-white"><p><i>Bye</i> : Salsa Dewinta XII RPL</p></a>
+                <a href="#" class="btn btn-white btn-outline-white"><p><i>Bye</i> : Salsa Dewinta</p></a>
               </div>
             </div>
             <div class="login-wrap p-4 p-lg-5 order-md-last">
@@ -48,7 +48,6 @@
             <label>Password:</label>
             <input type="password" class="form-control" name="password" placeholder="Masukan Password">
         </div>
-       
         <div class="form-group">
             <input type="submit"  class="btn btn-primary"  value="Login">
         </div>

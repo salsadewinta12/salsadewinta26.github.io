@@ -56,7 +56,7 @@ include "koneksi.php";
       <li class="nav-item d-none d-sm-inline-block">
         <h1>FORM DATA TRANSAKSI</h1>
       </li>
-      
+      <h1>Transaksi</h1>
     </ul>
 
     <!-- Right navbar links -->

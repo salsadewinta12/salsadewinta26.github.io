@@ -52,7 +52,7 @@ include "koneksi.php";
       <li class="nav-item">
         <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
       </li>
-      
+      <h1>User</h1>
     </ul>
 
     <!-- Right navbar links -->
@@ -173,7 +173,7 @@ include "koneksi.php";
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1 class="m-0">FORM USER</h1>
+            <h1 class="m-0"></h1>
           </div><!-- /.col -->
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
